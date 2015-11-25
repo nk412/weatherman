@@ -1,0 +1,7 @@
+access_key: 36b853e21779d5c9
+
+target:
+    country: "Iceland"
+    city:    "Hveravellir"
+
+metrics: ['dewpoint_c', 'feelslike_c', 'heat_index_c', 'local_epoch', 'observation_epoch', 'precip_1hr_metric', 'precip_today_metric', 'pressure_mb', 'pressure_trend', 'relative_humidity', 'temp_c', 'visibility_km', 'weather', 'wind_degrees', 'wind_dir', 'wind_gust_kph', 'wind_kph', 'windchill_c']

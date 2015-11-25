@@ -1,0 +1,1 @@
+curl http://api.wunderground.com/api/36b853e21779d5c9/conditions/q/United_Kingdom/Cambridge.json | jq .
